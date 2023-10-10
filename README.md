@@ -33,8 +33,8 @@ Mobile View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jsngzm/Results-summary-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/jsngzm/Results-summary-component)
+- Live Site URL: [Live site](https://radiant-sunshine-a68479.netlify.app/)
 
 ## My process
 
